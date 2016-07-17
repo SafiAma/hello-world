@@ -1,2 +1,5 @@
 # hello-world
 Learning how to use GitHub
+Safiya Roberts is an experienced independent verification and validation (IV&V) consultant specializing in systems analysis. She regularly performs positive and negative testing of system applications, documents test results and system defects, and provides reviews and analysis of SDLC artifacts. She also develops test cases/scripts based on requirements, as well as project deliverables (e.g., project schedules, activity plans, review reports, status reports). Safiya unbiased analysis of system applications and documentation based on the Statement of Work serves to support both the project team and business users in delivering a product on time that meets the needs of the business. 
+Safiya demonstrates strong technical and analytical skills, as well as excellent communication skills. She is a proven team leader with the ability to organize and lead team members towards favorable project outcomes.
+Safiya has supported multiple IV&V projects for the Securities and Exchange Commission Office of Information Technology.
